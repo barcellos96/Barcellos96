@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Js, React, HTML, CSS
 - 💬 Ask me about anything
 - 📫 How to reach me: felipebarcellos11@gmail.com
-- ⚡ Fun fact: em densenvolvimento!
+- ⚡ Fun fact: estou em densenvolvimento!
 
