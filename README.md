@@ -1,6 +1,6 @@
  Hi there 👋
 
-- 🌱 I’m currently learning Js, React, HTML, CSS
+- 🌱 I’m currently learning Js, ReactJs, HTML, CSS, Node, TypeScript, TypeOrm, Prisma, Python
 - 💬 Ask me about anything
 - 📫 How to reach me: felipebarcellos11@gmail.com
 - ⚡ Fun fact: estou em densenvolvimento!
