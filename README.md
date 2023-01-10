@@ -1,14 +1,13 @@
  Hi there 👋
 
-- 🌱 I’m currently learning Js, ReactJs, HTML, CSS, Node, TypeScript, TypeOrm, Prisma, Python
-- 💬 Ask me about anything
+- 🌱 I’m currently learning Js, ReactJs, Node, TypeScript, TypeOrm
 - 📫 How to reach me: felipebarcellos11@gmail.com
-- ⚡ Fun fact: estou em densenvolvimento!
-- 📗 student: Kenzie Academy Brasil
+- ⚡ Fun fact: em constante desenvolvimento
+- 📗 student: Kenzie Academy Brasil (graduated)
 
 <div align="center">
   <a href="https://github.com/barcellos96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barcellos96&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barcellos96&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barcellos96&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
