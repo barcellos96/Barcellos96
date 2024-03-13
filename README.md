@@ -1,9 +1,10 @@
  Hi there 👋
 
-- 🌱 I’m currently learning Js, ReactJs, Node, TypeScript, TypeOrm
+- 🌱 I’m developer fullstack TS/JS, ReactJs, NodeJs, TypeOrm, PostgreSQL, AWS
 - 📫 How to reach me: felipebarcellos11@gmail.com
-- ⚡ Fun fact: em constante desenvolvimento
-- 📗 student: Kenzie Academy Brasil (graduated)
+- 📗 certificated: Kenzie Academy Brasil and RocketSeat
+
+  
   ##
 
   <div style="display: inline_block" align="center"><br>
