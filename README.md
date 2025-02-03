@@ -1,13 +1,13 @@
  Hi there 👋
 
-👨‍💻 Felipe Barcellos
-🚀 Desenvolvedor Fullstack | 3 anos de experiência
-🏢 Atualmente na Plathanus
-💻 Especialista em React, Next.js, React Native, Node.js
-☁️ Com experiência em AWS para soluções escaláveis
-🌱 Sempre aprendendo e buscando novos desafios
-🔗 Acredito no poder da tecnologia para transformar o mundo e criar soluções inovadoras.
-📗 Certificados: Kenzie Academy Brasil e RocketSeat desde 2022
+- 👨‍💻 Felipe Barcellos
+- 🚀 Desenvolvedor Fullstack | 3 anos de experiência
+- 🏢 Atualmente na Plathanus
+- 💻 Especialista em React, Next.js, React Native, Node.js
+- ☁️ Com experiência em AWS para soluções escaláveis
+- 🌱 Sempre aprendendo e buscando novos desafios
+- 🔗 Acredito no poder da tecnologia para transformar o mundo e criar soluções inovadoras.
+- 📗 Certificados: Kenzie Academy Brasil e RocketSeat desde 2022
 
   
   ##
