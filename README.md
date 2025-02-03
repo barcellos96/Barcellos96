@@ -1,8 +1,13 @@
  Hi there 👋
 
-- 🌱 I’m developer fullstack TS/JS, ReactJs, NodeJs, TypeOrm, PostgreSQL, AWS
-- 📫 How to reach me: felipebarcellos11@gmail.com
-- 📗 certificated: Kenzie Academy Brasil and RocketSeat
+👨‍💻 Felipe Barcellos
+🚀 Desenvolvedor Fullstack | 3 anos de experiência
+🏢 Atualmente na Plathanus
+💻 Especialista em React, Next.js, React Native, Node.js
+☁️ Com experiência em AWS para soluções escaláveis
+🌱 Sempre aprendendo e buscando novos desafios
+🔗 Acredito no poder da tecnologia para transformar o mundo e criar soluções inovadoras.
+📗 Certificados: Kenzie Academy Brasil e RocketSeat desde 2022
 
   
   ##
